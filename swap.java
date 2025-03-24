@@ -2,7 +2,6 @@
 // using temp variable 
 
 // Importing generic libraries
-import java.util.*;
 
 class GFG {
 
